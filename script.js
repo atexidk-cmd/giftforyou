@@ -51,7 +51,7 @@ const quizQuestions = [
 
 // Polaroid data (now with image placeholders)
 const polaroids = [
-    { caption: 'Our First Date', emoji: '👫', taped: true, image: 'placeholder1.jpg' },
+    { caption: 'Our First Date', emoji: '👫', taped: true, <img src="https://raw.githubusercontent.com/atexidk-cmd/giftforyou/cd6e01502050e611b586c61c6d23c6f8291d3202/IMG_20260105_010140_829.jpg" alt="Image"> },
     { caption: 'Your Beautiful Smile', emoji: '😊', taped: false, image: 'placeholder2.jpg' },
     { caption: 'Perfect Day Together', emoji: '☀️', taped: false, image: 'placeholder3.jpg' },
     { caption: 'Only Us Forever', emoji: '💑', taped: true, image: 'placeholder4.jpg' },
